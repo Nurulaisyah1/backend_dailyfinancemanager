@@ -1,0 +1,2501 @@
+tanggal;kategori;nominal;jenis_catatan
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
+2025-07-13;Belanja;1000000;pengeluaran
+2025-07-14;Transportasi;25000;pengeluaran
+2025-07-10;Bonus;200000;pemasukan
+2025-07-15;Makanan;100000;pengeluaran
+2025-07-15;Listrik;50000;pengeluaran
+2025-07-15;Tabungan;120000;pengeluaran
+2025-07-15;Tarik Tabungan;12000;pemasukan
+2025-07-15;Pinjaman Diterima;20000;pemasukan
+2025-07-11;Kasbon Diberikan;50000;pengeluaran
+2025-07-15;Pendidikan;20000;pengeluaran
+2025-07-09;Hiburan;250000;pengeluaran
+2025-07-12;Cicilan;21000;pengeluaran
+2025-07-15;Internet;20000;pengeluaran
+2025-07-15;Makanan;35000;pengeluaran
+2025-07-15;Freelance;12000;pemasukan
+2025-07-15;Penjualan;40000;pemasukan
+2025-07-06;Investasi;50000;pemasukan
+2025-07-15;Pendidikan;50000;pemasukan
+2025-07-15;Transportasi;30000;pengeluaran
+2025-07-15;Belanja;5000;pengeluaran
+2025-07-13;Listrik;200000;pengeluaran
