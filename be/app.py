@@ -102,8 +102,3 @@ async def predict(transaksi: UploadFile = File(...)):
 @app.get("/health")
 def health_check():
     return {"status": "ok"}
-
-# === 5. Menjalankan aplikasi ===
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))  # default 5000 di lokal, dari Railway kalau di server
-    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=True)
