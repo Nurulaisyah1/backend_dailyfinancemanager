@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 import tensorflow as tf
@@ -6,6 +7,7 @@ from fastapi import FastAPI, UploadFile, File
 from fastapi.responses import JSONResponse
 from io import StringIO
 import logging
+import uvicorn
 
 # === Konfigurasi logger ===
 logging.basicConfig(
@@ -27,16 +29,13 @@ with open("data/kategori.txt") as f:
 
 # === 2. Fungsi untuk memproses data transaksi ===
 def preprocess_data(df):
-    # Normalisasi nama kolom
     df.columns = [c.strip().lower().replace(" ", "_") for c in df.columns]
     df['tanggal'] = pd.to_datetime(df['tanggal'])
     df = df[df['jenis_catatan'].str.lower() == 'pengeluaran']  # Filter pengeluaran saja
 
-    # Grouping dan Pivot per kategori
     df_grouped = df.groupby(['tanggal', 'kategori']).sum().reset_index()
     pivot_df = df_grouped.pivot(index='tanggal', columns='kategori', values='nominal').fillna(0)
 
-    # Scaling
     scaled_data = scaler.transform(pivot_df)
     return scaled_data, pivot_df
 
@@ -44,49 +43,33 @@ def preprocess_data(df):
 @app.post("/predict/")
 async def predict(transaksi: UploadFile = File(...)):
     try:
-        # Membaca file CSV
         contents = await transaksi.read()
         df = pd.read_csv(StringIO(contents.decode("utf-8")), sep=";")
         
-        # Memproses data untuk prediksi
         scaled_data, pivot_df = preprocess_data(df)
 
-        # Membuat input sequence untuk model LSTM
-        time_steps = 1  # Misalnya menggunakan 1 bulan terakhir untuk prediksi
+        time_steps = 1
         last_5_scaled = scaled_data[-time_steps:]
         X_input = last_5_scaled.reshape(1, time_steps, scaled_data.shape[1]).astype(np.float32)
 
-        # Prediksi dengan model H5
         y_pred_scaled = model.predict(X_input)
-
-        # Balikkan ke bentuk nominal asli
         y_pred_original = scaler.inverse_transform(y_pred_scaled)
 
-        # Hitung statistik dan rekomendasi
         avg_pengeluaran_per_kategori = pivot_df.mean().values
         total_prediksi = np.sum(y_pred_original)
         total_rata2 = np.sum(avg_pengeluaran_per_kategori)
 
         if total_prediksi > total_rata2:
             status = "Defisit"
-            saran_status = (
-                "Pengeluaran Anda diperkirakan lebih tinggi dari biasanya. "
-                "Pertimbangkan mengurangi belanja yang tidak mendesak."
-            )
+            saran_status = "Pengeluaran Anda diperkirakan lebih tinggi dari biasanya. Pertimbangkan mengurangi belanja yang tidak mendesak."
         else:
             status = "Surplus"
-            saran_status = (
-                "Pengeluaran Anda diperkirakan lebih rendah dari biasanya. "
-                "Ini kesempatan bagus untuk menabung lebih banyak."
-            )
+            saran_status = "Pengeluaran Anda diperkirakan lebih rendah dari biasanya. Ini kesempatan bagus untuk menabung lebih banyak."
 
-        # Detail per kategori
         detail = []
         for k, pred, avg in zip(kategori, y_pred_original[0], avg_pengeluaran_per_kategori):
-            # Menghitung persentase perubahan dalam rentang 1-100%
             persen = ((pred - avg) / avg * 100) if avg != 0 else 0
 
-            # Menentukan status per kategori
             if persen > 50:
                 catatan = f"Naik signifikan dibanding biasanya ({round(persen, 2)}%). Disarankan untuk mengurangi pengeluaran di kategori ini."
             elif persen > 10:
@@ -102,7 +85,6 @@ async def predict(transaksi: UploadFile = File(...)):
                 "status": catatan
             })
 
-        # Menyusun hasil rekomendasi
         result = {
             "status": status,
             "saran": saran_status,
@@ -110,7 +92,6 @@ async def predict(transaksi: UploadFile = File(...)):
             "detail": detail
         }
 
-        # Mengembalikan hasil dalam format JSON
         return JSONResponse(content=result)
 
     except Exception as e:
@@ -121,3 +102,8 @@ async def predict(transaksi: UploadFile = File(...)):
 @app.get("/health")
 def health_check():
     return {"status": "ok"}
+
+# === 5. Menjalankan aplikasi ===
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))  # default 5000 di lokal, dari Railway kalau di server
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=True)
