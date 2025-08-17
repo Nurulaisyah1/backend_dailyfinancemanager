@@ -5,3 +5,4 @@ numpy
 tensorflow
 joblib
 python-multipart
+scikit-learn
